@@ -1,4 +1,6 @@
 # 👋 Welcome to BTG Labs
+💡 *“Build with confidence. Test with precision. Grow without limits.”*  
+
 
 **Build. Test. Grow.**  
 We’re a multi-disciplinary team helping SaaS companies, startups, and enterprises build scalable products, strengthen quality, and accelerate growth.
@@ -27,5 +29,3 @@ We love working with innovative teams. Whether you need QA, automation, DevOps, 
 🌍 Website: [www.btglabs.io](https://www.btg-labs.com)  
 
 ---
-
-💡 *“Build with confidence. Test with precision. Grow without limits.”*  
