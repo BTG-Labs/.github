@@ -26,6 +26,6 @@ We partner with teams to **deliver quality at speed**, ensuring products are sta
 We love working with innovative teams. Whether you need QA, automation, DevOps, or product strategy, we’re here to help.  
 
 📧 Contact us: [**info@btg-labs.com**](mailto:info@btg-labs.com)
-🌍 Website: [www.btglabs.io](https://www.btg-labs.com)  
+🌍 Website: [www.btg-labs.com](https://www.btg-labs.com)  
 
 ---
